@@ -1,29 +1,15 @@
 ## Hey There 👋
 
-### I'm a Wisdom Ekpotu 🤖
+### I'm Wisdom Ekpotu 🤖
 
-I love working with the developer community on a global scale, building cool demo's, writing technical articles, speaking at conferences. I'm a Senior Developer Advocate based in Lagos, Nigeria but I live on an Airplane 🔥✈️
+  I'm a Third Year Student majoring in Computer Engineering @ University of Uyo, Nigeria. I am a Mern Stack developer, an open-source advocate and a Community Builder. 
 
-💬 **Ask me about:** Developer Advocacy, Program Management, Community Management, ReactJS, VueJS, AngularJS, Performance, PWA, PHP, Laravel, Testing, Open Source, Web Perf.
+   Apart from my technical abilities,I lead developer communities on campus. I am also currently building and growing the biggest developer community on my campus with over 500+ active student developers.I am the Google Developer Student Clubs Lead for my campus and I just recently conducted a technical workshop where we helped various students especially freshman and sophomore students get started with coding, open source and software development.
 
-⚡️ **What I do:**
+I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
 
-- Dev. Relations Manager (Community & Platform Engineering) at Stack Overflow 🥑
-- Speaking at Conferences [=>](http://speaking.shodipoayomide.com/), Send an Invite to [@developerayo](https://twitter.com/developerayo) if you need me at your Conference
-- Host of [DevRelChat](devrelchat.dev)
-- Founder of [unStack Africa](http://unstack.africa/)
-- Core team [Open Source Community Africa](https://oscafrica.org/)
-- Admin at [DevRel Collective Slack](https://devrelcollective.fun/)
-- Cloudinary [Media Developer Expert](https://cloudinary.com/mde)
-- Technical Instructor on [Egghead](https://egghead.io/)
-- Learning Author for [Linkedin learning](https://www.linkedin.com/)
-- Community Lead at [Developers Circles Lagos from Facebook](https://www.facebook.com/groups/DevCLagos/)
-- Startup mentor at [The Tony Elumelu Foundation](https://www.tonyelumelufoundation.org/)
-
-📚 School: [Havard Business School](https://www.hbs.edu/Pages/default.aspx) (MBA)
-
-📫 How to reach me: [@developerayo](https://twitter.com/developerayo)
+💬 **Ask me about:** Community Management, ReactJS, ExpressJS, Hooks, Open Source.
 
 🥂 Cheers!
 
-![Profile views](https://gpvc.arturio.dev/developerayo)
+![Profile views](https://gpvc.arturio.dev/wisdomekpotu)
