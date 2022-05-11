@@ -2,14 +2,22 @@
 
 ### I'm Wisdom Ekpotu 🤖
 
-  I'm a Third Year Student majoring in Computer Engineering @ University of Uyo, Nigeria. I am a Mern Stack developer, an open-source advocate and a Community Builder. 
-
-   Apart from my technical abilities,I lead developer communities on campus. I am also currently building and growing the biggest developer community on my campus with over 500+ active student developers.I am the Google Developer Student Clubs Lead for my campus and I just recently conducted a technical workshop where we helped various students especially freshman and sophomore students get started with coding, open source and software development.
+A Software Engineer and Technical Writer from Nigeria who is Passionate about learning, building and solving problems.
 
 I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
 
-💬 **Ask me about:** Community Management, ReactJS, ExpressJS, Hooks, Open Source.
+- 💬 **Ask me about:** Frontend Web Engineering, Open Source, Community Management.
+
+- 😊 Pronouns: He/him
+- 📝 I write technical blogs and articles. Check out my blo
+- 📙 Check out my [Resume](https://docs.google.com/document/d/1LmHHjXHlPUhnrL91WKsIDvWT8TG_uxKm1B2rmcYJOBA/edit?usp=sharing)
+- 🎉 Fun-Fact: I ❤️ traveling
+- 📫 How to reach me:
+   - Twitter: [@wisdom_ekpotu](https://twitter.com/Wisdom_Ekpotu)
+   - linkedIn: [@wisdom-ekpotu](https://www.linkedin.com/in/wisdom-ekpotu/)
+   - Website: [wisdomekpotu.com](https://wisdomekpotu.com)
 
 🥂 Cheers!
 
 ![Profile views](https://gpvc.arturio.dev/wisdomekpotu)
+
