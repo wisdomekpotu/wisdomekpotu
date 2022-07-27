@@ -6,10 +6,9 @@ A Software Engineer and Technical Writer from Nigeria who is Passionate about le
 
 I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
 
-* 💬 **Ask me about:** Frontend Web Engineering, Open Source, Community Management.
+* 💬 **Ask me about:** Frontend Web Engineering, Technical Writing, Open Source, Community Management.
 * 😎 **Pronouns:** He/him
-* 📝 I write technical blogs and articles for publications like OpenReplay and others.
-* 📜 Check out my [Resume](https://docs.google.com/document/d/1LmHHjXHlPUhnrL91WKsIDvWT8TG_uxKm1BYJOBA/edit?usp=sharing)
+* 📝 I write technical content on my [personal blog](https://wisdomekpotu.com/blog) and articles for publications like OpenReplay and others.
 * 🎉 **Fun-Fact:** I ❤️ traveling
 * 🚀 **How to reach me:**
    - Twitter: [@wisdom_ekpotu](https://twitter.com/Wisdom_Ekpotu)
