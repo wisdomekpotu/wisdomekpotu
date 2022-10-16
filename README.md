@@ -8,7 +8,7 @@ I also love working with the developer communities on a global scale, building c
 
 * 💬 **Ask me about:** Frontend Web Engineering, Technical Writing, Open Source, Community Management.
 * 😎 **Pronouns:** He/him
-* 📝 I write technical content on my [personal blog](https://wisdomekpotu.com/blog) and articles for publications like OpenReplay and others.
+* 📝 I write technical content on my [personal blog](https://wisdomekpotu.com/blog) and articles for publications like OpenReplay, LogRocket and others.
 * 🎉 **Fun-Fact:** I ❤️ traveling
 * 🚀 **How to reach me:**
    - Twitter: [@wisdom_ekpotu](https://twitter.com/Wisdom_Ekpotu)
