@@ -1,10 +1,13 @@
-## Hey There 👋
 
-### I'm Wisdom Ekpotu 🤖
+## <div align = "center">Hola👋, I'm Wisdom Ekpotu. 
 
-A Software Engineer and Technical Writer from Nigeria who is Passionate about learning, building and solving problems.
-
+<h3 align="center">Software Engineer(Frontend) & Technical Writer </h3>
+  <p>
+    I am very Passionate about learning, building and solving problems. 
 I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
+</p>
+</div>
+
 
 * 💬 **Ask me about:** Frontend Web Engineering, Technical Writing, Open Source, Community Management.
 * 😎 **Pronouns:** He/him
@@ -18,4 +21,3 @@ I also love working with the developer communities on a global scale, building c
 🥂 Cheers!
 
 ![Profile views](https://gpvc.arturio.dev/wisdomekpotu)
-
