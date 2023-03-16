@@ -1,7 +1,7 @@
 
 ## <div align = "center">Hola👋, I'm Wisdom Ekpotu. 
 
-<h3 align="center">Software Engineer(Frontend) & Technical Writer </h3>
+<h3 align="center">Software Engineer & Technical Writer </h3>
   <p>
     I am very Passionate about learning, building and solving problems. 
 I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
