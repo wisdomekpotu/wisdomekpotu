@@ -1,18 +1,11 @@
 
-## <div align = "center">Hola👋, I'm Wisdom Ekpotu. 
-
-<h3 align="center">Software Engineer & Technical Writer </h3>
-  <p>
-    I am very Passionate about learning, building and solving problems. 
-I also love working with the developer communities on a global scale, building cool demo's, writing technical articles, speaking at conferences.
-</p>
-</div>
+<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Wisdom Ekpotu! </h3>
 
 
-* 💬 **Ask me about:** Frontend Web Engineering, Technical Writing, Open Source, Community Management.
-* 😎 **Pronouns:** He/him
-* 📝 I write technical content on my [personal blog](https://wisdomekpotu.com/blog) and articles for publications like OpenReplay, LogRocket and others.
-* 🎉 **Fun-Fact:** I ❤️ traveling
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, and Cloud Native Technologies.
+- 📝 I write technical content on my [personal blog](https://wisdomekpotu.com) and articles for publications.
+- 🎉 **Fun-Fact:** I ❤️ traveling
 * 🚀 **How to reach me:**
    - Twitter: [@wisdom_ekpotu](https://twitter.com/Wisdom_Ekpotu)
    - linkedIn: [@wisdom-ekpotu](https://www.linkedin.com/in/wisdom-ekpotu/)
@@ -20,4 +13,8 @@ I also love working with the developer communities on a global scale, building c
 
 🥂 Cheers!
 
-![Profile views](https://gpvc.arturio.dev/wisdomekpotu)
+<img src="https://komarev.com/ghpvc/?username=wisdomekpotu&style=flat-square&color=blue" alt=""/>
+
+
+
+
