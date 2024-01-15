@@ -9,7 +9,6 @@
 * 🚀 **How to reach me:**
    - Twitter: [@wisdom_ekpotu](https://twitter.com/Wisdom_Ekpotu)
    - linkedIn: [@wisdom-ekpotu](https://www.linkedin.com/in/wisdom-ekpotu/)
-   - Website: [wisdomekpotu.com](https://wisdomekpotu.com)
 
 🥂 Cheers!
 
