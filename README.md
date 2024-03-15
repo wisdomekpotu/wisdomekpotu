@@ -3,7 +3,7 @@
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Infrastructure Engineering (DevOps) with Go, Linux, Shell Scripting, and Cloud Native Technologies.
+- 🌱 I’m currently learning Infrastructure Engineering (DevOps/SRE) with Go, Linux, Shell Scripting, and Cloud Native Technologies.
 - 📝 I write technical content on my [personal blog](https://wisdomekpotu.com) and articles for publications.
 - 🎉 **Fun-Fact:** I ❤️ traveling
 * 🚀 **How to reach me:**
